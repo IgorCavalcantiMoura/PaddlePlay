@@ -26,3 +26,9 @@ Pontuação para acompanhar o progresso dos jogadores.
 <p align="center">
   <img src="https://github.com/IgorCavalcantiMoura/PaddlePlay/blob/main/assets/giphy.gif?raw=true" alt="GIF do Jogo de Ping Pong">
 </p>
+
+### Contribuindo
+Contribuições são bem-vindas! Se você encontrar bugs ou tiver sugestões para melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+### Créditos
+Este jogo foi inspirado em tutoriais e recursos disponíveis na plataforma Dev Samurai. 
